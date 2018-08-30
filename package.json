@@ -6,9 +6,12 @@
   "scripts": {
     "start": "node server/server.js"
   },
-  "engine":{
-  	"node":"8.11.3"
+  "engine": {
+    "node": "8.11.3"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
